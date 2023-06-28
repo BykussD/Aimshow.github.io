@@ -1,0 +1,138 @@
+
+.anan{
+  background-color: blue;
+  margin:0px 50px 50px 50px;
+  min-width: 50px;
+  min-height: 50px;
+  opacity: 0;
+  border-radius:300px ;
+  
+}
+
+.gameField{
+  z-index: -2;
+  position: absolute;
+  top: 15%;
+  left:  25%;
+  width: auto;
+  padding: 100px;
+  background-color: #2D4356;
+  border-radius: 100px;
+  color: white;
+}
+.red{
+  background-color: red;
+  opacity: 1;
+}
+.blue{
+background-color: blue;
+opacity: 1;
+}
+.yellow{
+  background-color:yellow ;
+  opacity: 1;
+}
+.pink{
+  background-color:pink ;
+  opacity: 1;
+}
+.purple{
+  background-color:purple ;
+  opacity: 1;
+}
+.green{
+  background-color:green ;
+  opacity: 1;
+}
+.resim1{
+background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.06.jpeg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+z-index: -1;
+}
+.resim2{
+  background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.10.jpeg);
+  background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+z-index: -1;
+  
+}
+.resim3{
+  background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.11.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim4{
+  background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.20.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim5{
+  background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.21.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim6{
+  background-image: url(resimler/vay\ anasını.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim7{
+  background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.24.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim8{
+  background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.26.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim9{
+  background-image: url(resimler/vay\ vay.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim10{
+  background-image: url(resimler/oha.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim11{
+  background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.27.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim12{
+  background-image: url(resimler/anam\ anam.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+.resim13{
+  background-image: url(resimler/WhatsApp\ Image\ 2023-06-28\ at\ 01.36.28.jpeg);
+    background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+z-index: -1;
+}
